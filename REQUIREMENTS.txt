@@ -1,0 +1,12 @@
+# Framework principal
+streamlit==1.38.0
+
+# Données financières (Yahoo Finance)
+yfinance==0.2.43
+
+# Manipulation des données
+pandas==2.2.2
+numpy==1.26.4
+
+# Utilitaires et compatibilité
+requests
